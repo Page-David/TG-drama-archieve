@@ -1,0 +1,44 @@
+span.say {
+	display: block;
+}
+
+p.para {
+	/*position: relative;
+	left: -30%;*/
+	text-align: left;
+}
+
+pre.up_anim{
+	position: absolute;
+	top: 30em;
+	-moz-transition: top linear 50s;
+	-webkit-transition: top linear 50s;
+	-o-transition: top linear 50s;
+	text-align: center;
+	font-size: 120%;
+}
+
+pre.up_anim0{
+	position: absolute;
+	top: 28em;
+	-moz-transition: top linear 50s;
+	-webkit-transition: top linear 50s;
+	-o-transition: top linear 50s;
+	text-align: center;
+	font-size: 120%;
+}
+
+div.up_anim{
+	position: absolute;
+	top: 20em;
+	-moz-transition: top linear 80s;
+	-webkit-transition: top linear 80s;
+	-o-transition: top linear 80s;
+	text-align: center;
+	font-size: 110%;
+	width: 100%;
+}
+
+span.name_l{
+	display: block;
+}
